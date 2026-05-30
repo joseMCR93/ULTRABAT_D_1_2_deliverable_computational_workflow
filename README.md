@@ -192,7 +192,7 @@ python module3_deltascf_spectrum.py
 If you use this workflow, please cite:
 
 ```
-Crespo-Otero, J. M. et al. UltraBat D1.2: Computational workflow for the 
+Castillo-Robles, J. M. et al. UltraBat D1.2: Computational workflow for the 
 automated study of transport mechanisms at the LRMO/LP30 electrolyte interface.
 UltraBat Horizon Europe Project (Grant No. 101103873), DTU (2025).
 https://github.com/joseMCR93/ULTRABAT_D_1_2_deliverable_computational_workflow
