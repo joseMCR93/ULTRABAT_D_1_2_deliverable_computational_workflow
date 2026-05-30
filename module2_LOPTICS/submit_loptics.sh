@@ -8,8 +8,7 @@
 #SBATCH --time=50:00:00
 #SBATCH --output=LRMO_optics.log
 
-#export VASP_COMMAND='mpiexec vasp_std'
-#export VASP_PP_PATH="/home/niflheim/nirama/vasp.5.4.1_fjorm/vasp-potpaw-5.2"  
+
 
 # Running on epyc96
  module use /home/modules/energy/modules/all
