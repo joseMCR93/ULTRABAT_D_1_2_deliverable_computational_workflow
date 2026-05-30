@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains the computational workflow developed for **Deliverable D1.2** of the [UltraBat](https://cordis.europa.eu/project/id/101103873) Horizon Europe project (Grant No. 101103873), led by the Technical University of Denmark (DTU).
+This repository contains the computational workflow developed for **Deliverable D1.2** of the [UltraBat](https://cordis.europa.eu/project/id/101103873) Horizon Europe project (Grant No. 101103873), led by DTU Energy.
 
 The workflow provides an automated, modular framework for the study of Li⁺ transport mechanisms and optical excitations at the Li₁.₂Mn₀.₅₄Co₀.₁₃Ni₀.₁₃O₂ (LRMO) surface in contact with LP30 electrolyte (1:1 EC/DMC, 1 M LiPF₆). The results serve as computational input for the XFEL experiments described in Task 1.3 and D1.4.
 
