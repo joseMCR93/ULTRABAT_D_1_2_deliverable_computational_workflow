@@ -1,0 +1,52 @@
+# VASP output files (large binary)
+WAVECAR
+CHGCAR
+CHG
+PROCAR
+vasprun.xml
+OUTCAR
+CONTCAR
+OSZICAR
+EIGENVAL
+DOSCAR
+IBZKPT
+PCDAT
+XDATCAR
+vasp.out
+
+# MACE model (large binary)
+*.model
+*.model.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+.venv/
+env/
+
+# Checkpoints and trajectories (large)
+checkpoint_*.xyz
+interface_npt.xyz
+interface_nvt.xyz
+summary_npt.txt
+summary_nvt.txt
+npt_results/
+nvt_results/
+
+# SLURM logs
+*.err
+*.out
+slurm-*.out
+
+# MacOS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
